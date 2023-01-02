@@ -1,0 +1,15 @@
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.csproj.AssemblyReference.cache
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.AssemblyInfoInputs.cache
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.AssemblyInfo.cs
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.csproj.CoreCompileInputs.cache
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/bin/Debug/net6.0/sudoku
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/bin/Debug/net6.0/sudoku.deps.json
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/bin/Debug/net6.0/sudoku.runtimeconfig.json
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/bin/Debug/net6.0/sudoku.dll
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/bin/Debug/net6.0/ref/sudoku.dll
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/bin/Debug/net6.0/sudoku.pdb
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.dll
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/ref/sudoku.dll
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.pdb
+/media/laeth/SSDLocal1/Linux/Documents_/programs/sudoku/obj/Debug/net6.0/sudoku.genruntimeconfig.cache
